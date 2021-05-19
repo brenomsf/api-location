@@ -10,4 +10,8 @@
 	"name": "BAHIA",
 	"uf": "BA",
 	"region": "NORDESTE"
+}, {
+	"name": "Santa Catarina",
+	"uf": "SC",
+	"region": "SUL"
 }]
