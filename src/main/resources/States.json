@@ -1,0 +1,13 @@
+[{
+	"name": "Acre",
+	"uf": "AC",
+	"region": "NORTE"
+}, {
+	"name": "Sao Paulo",
+	"uf": "SP",
+	"region": "SUDESTE"
+}, {
+	"name": "BAHIA",
+	"uf": "BA",
+	"region": "NORDESTE"
+}]
